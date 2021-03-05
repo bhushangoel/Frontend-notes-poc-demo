@@ -55,4 +55,5 @@ As original bind method returns a bound function, we are also doing the same by 
 Inside that we are using `call()` to invoke the actual function.
 
 ##Code
+
 Play around with code at [Fiddle](https://jsfiddle.net/gxen43ma/16/)

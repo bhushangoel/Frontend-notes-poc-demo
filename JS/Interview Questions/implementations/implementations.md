@@ -1,9 +1,9 @@
 # Code implementations of existing JS features
 
-###[bind()](bind.md)
+### [bind()](bind.md)
 
-###[Array.reducer]
+### [Array.reducer]
 
-###[Array.map]
+### [Array.map]
 
 
