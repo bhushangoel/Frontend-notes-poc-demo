@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Frontend Notes
 
-You can use the [editor on GitHub](https://github.com/bhushangoel/Frontend-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Frontend notes consists of all the best resources, interview questions, concepts, code implemetations and experiences related to frontend technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is not only limited to JS, HTML or CSS but als includes best practices related to performance, security, accessibility.
 
-### Markdown
+In order to read the documentation effectively, you can access index.md file from every folder, from which you will get an basic overview of the complete section.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To prepare for a FE interview, visit interview-questions.md
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhushangoel/Frontend-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Currently there are following sections - 
+1. [Accessibilty](./Accessibility/index.md)
+2. [Feature designs](./Accessibility/index.md)
+3. [JS](./Accessibility/index.md)
+4. [Performance](./Accessibility/index.md)
