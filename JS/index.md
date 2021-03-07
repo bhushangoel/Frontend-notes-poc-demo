@@ -3,14 +3,14 @@ This file consists of a snapshot of JS section. There might be some topics that 
 # ES versions
 
 # Concepts
-- ### [this](./this.md)
-- ### [Closures]()
-- ### [Hoisting]()
-- ### Temporal dead zone
-- ### Time to first byte
+-  [this](./this.md)
+-  [Closures]()
+-  [Hoisting]()
+-  Temporal dead zone
+-  Time to first byte
 
 # Implementations
-- ### [bind()](bind.md)
-- ### [Array.reducer]
-- ### [Array.map]
-- ### Write reducer function
+-  [bind()](bind.md)
+-  [Array.reducer]
+-  [Array.map]
+-  Write reducer function
