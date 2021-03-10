@@ -33,7 +33,7 @@ This file consists of complete list of questions related to frontend development
 25. application cache vs browser cache
 26. How can you implement Encapsulation and Abstraction in JS?
 27. How can you implement Inheritance in JS?
-28. call() | [`bind()`](./JS/bind.md) | apply()
+28. call(), [`bind()`](./JS/bind.md), apply()
 29. [slice vs splice](./JS/js-interview/theory-29.md)
 
 ## Input/Output (io)

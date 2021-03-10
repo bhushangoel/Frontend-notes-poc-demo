@@ -54,6 +54,6 @@ In that function, `this` points to the function we are trying to invoke.
 As original bind method returns a bound function, we are also doing the same by returning a function from `mybind()`.
 Inside that we are using `call()` to invoke the actual function.
 
-##Code
+## Code
 
 Play around with code at [Fiddle](https://jsfiddle.net/gxen43ma/16/)

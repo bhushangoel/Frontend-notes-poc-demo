@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="329af2ac-c82b-4254-a434-88e7e18c61bf" name="Default Changelist" comment="added closures">
-      <change afterPath="$PROJECT_DIR$/JS/classical-inheritance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/js-interview/theory-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/js-interview/theory-29.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/html-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_03_21__16_48__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_03_21__16_48__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="329af2ac-c82b-4254-a434-88e7e18c61bf" name="Default Changelist" comment="added classical-inheritance, closures, slice splice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/bind.md" beforeDir="false" afterPath="$PROJECT_DIR$/JS/bind.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interview-questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/interview-questions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +38,16 @@
       <option name="presentableId" value="Default" />
       <updated>1614943109882</updated>
       <workItem from="1614943111032" duration="52000" />
-      <workItem from="1615354944929" duration="7678000" />
+      <workItem from="1615354944929" duration="7787000" />
     </task>
+    <task id="LOCAL-00001" summary="added classical-inheritance, closures, slice splice">
+      <created>1615362849823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615362849823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,5 +64,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added classical-inheritance, closures, slice splice" />
+    <option name="LAST_COMMIT_MESSAGE" value="added classical-inheritance, closures, slice splice" />
   </component>
 </project>
