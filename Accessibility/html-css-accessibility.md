@@ -217,4 +217,3 @@ whereas lighter tinted colors are oranges, yellows, greens, and blue-greens.
 
 **NOTE: Close colors can be thought of as neighbors on the color wheel, and those combinations should be avoided when
 conveying important information.**
-``

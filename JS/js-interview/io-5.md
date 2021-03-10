@@ -18,19 +18,19 @@
 ```
 **There are two things happening here -**
 
-- We are copying `obj` to `obj2` using `Object.create()`. Object.create() *copies the existing object to the prototype(__ __proto____) of new obj*(obj2 in this case).
+- We are copying `obj` to `obj2` using `Object.create()`. Object.create() <span style="color: #009988">*copies the existing object to the prototype(__ __proto____) of new obj*</span>(obj2 in this case).
+
 ```javascript
 var obj2 = Object.create(obj);
 
 // obj2 can be visualised as
 
-/* 
 obj2 = {
      __proto__: {
          a: 5
      }
 } 
-*/
+
 ```
 
-- Deleting the property using `delete` operator. This operator *only deletes the value which is present directly on the object* and does not delete any value present on the prototype(__ __proto____) of an object. That is why deleting property `a` does not have any effect.
+- Deleting the property using `delete` operator. This operator <span style="color: #009988">*only deletes the value which is present directly on the object*</span> and does not delete any value present on the prototype(__ __proto____) of an object. That is why deleting property `a` does not have any effect.
